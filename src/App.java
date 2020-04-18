@@ -25,7 +25,6 @@ public class App {
 		char sherikasMiddleInitial = 'M';
 		char sharonsMiddleInitial = 'S';
 		
-		
 		float sherikasNewWalletBalance = amountInSherikasWallet - computerPrice;
 		float sharonsNewWalletBalance = amountInSharonsWallet - shoePrice;
 		
