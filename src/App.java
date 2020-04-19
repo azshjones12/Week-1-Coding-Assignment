@@ -7,7 +7,7 @@ public class App {
 		float computerPrice = 1000.57f; 
 		float shoePrice = 53.99f;
 		
-		float amountInSherikasWallet = 2500f;
+		short amountInSherikasWallet = 2500;
 		float amountInSharonsWallet = 3500.70f;
 		
 		byte sherikasNumberOfFriends = 30;
